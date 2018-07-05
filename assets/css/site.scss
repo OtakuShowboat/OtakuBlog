@@ -102,6 +102,16 @@ nav a:hover {
 	transition: opacity 0.3s;
 }
 
+a.active {
+	opacity: 1.0;
+}
+
+a.active:hover {
+	opacity: 0.5;
+	text-decoration:none;
+	transition: opacity 0.3s;
+}
+
 
 
 /* Navigation */
