@@ -34,6 +34,7 @@ body {
 	background-attachment: fixed;
 	background-image: url({{site.baseurl}}/assets/images/OSBackground.jpg);
 	background-position: top;
+	height: 93%;
 }
 
 h1 {
@@ -85,6 +86,10 @@ h2 {
 		@include for-phone-only {
 			font-size: 2.3vmax;
 		}
+}
+
+nav a, nav a:link, nav a:visited, nav a:hover, .feedpost a, .feedpost a:link, .feedpost a:hover, .feedpost a:visited {
+	color: black;
 }
 
 /* Navigation */
@@ -159,9 +164,11 @@ nav ul li {
 div#content {
 	background: rgba(255, 255, 255, 0.9);
 	box-sizing: border-box;
-	display: block;
+	display: flex;
+	flex-direction: column;
+	height: auto !important;
 	margin: 7vh auto 0;
-
+	min-height: 100%;
 	padding: 0 3% 0;
 	text-align: justify;
 	width: 80%;
@@ -177,26 +184,16 @@ header {
 }
 
 
-/* Footer */
-footer {
 
-	display: inline-block;
-	height: 10vh;
-	position: relative;
-	text-align: center;
-	width:100%;
-	
-	@include for-phone-only {
-		font-size: 2.25vmin;
-		width: 100%;
-	}
-}
 
 .ptextcenter {
 	left:50%;
 	position: relative;
 	top:50%;
 	transform: translate(-50%, -50%);
+}
+
+div#tablewrapper {
 }
 
 div#main_content h1 {
@@ -214,4 +211,47 @@ div#main_content h1 {
 		@include for-phone-only {
 			font-size: 3.5vmax;
 		}
+}
+
+/* Footer */
+footer {
+	border-top: 1px solid grey;
+	height: 10vh;
+	margin-top: auto;
+	text-align: center;
+	width:100%;
+	@include for-phone-only {
+		font-size: 2.25vmin;
+		width: 100%;
+	}
+}
+
+/* Posts Feed Styling */
+
+div.feedpost {
+	border-bottom: 1px solid grey;
+	margin-bottom: 2vh;
+}
+
+div.feedpost:last-of-type {
+	border-bottom: none;
+}
+
+
+.videocontainer {
+	display: inline-block;
+	height: 0;
+	margin-bottom: 2vh;
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 25px;
+	width: 100%;
+}
+
+.video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
