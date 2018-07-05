@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku on Keto: 8 Weeks and Over 30 Pounds"
+comments: true
 date:   2017-10-12 20:05:04 -0500
 excerpt: "Friday, October 13, 2017 marks 8 full weeks of being on a ketogenic diet. I have lost over 30 pounds thus far (you can refer to the weight page in the top navigation for details). It has been a heck of a journey."
 ---

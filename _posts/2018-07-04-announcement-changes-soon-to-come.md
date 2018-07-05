@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Announcement - Changes Soon to Come"
+comments: true
 date:   2018-07-04 11:28:02 -0500
 excerpt: "Changes are coming to the Otaku Blog. The URL will remain the same, but the entire site will be rebuilt from scratch. For those unaware, this website for a little under a year has been built and hosted with SquareSpace. Now that I know a lot more about website development and am comfortable with using Jekyll and GitHub Pages (via my Portfolio site), I have decided to stop using SquareSpace to host this blog."
 ---

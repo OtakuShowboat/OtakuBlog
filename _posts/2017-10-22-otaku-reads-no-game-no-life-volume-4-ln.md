@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: No Game No Life Volume 4 (LN)"
+comments: true
 date:   2017-10-22 21:30:02 -0500
 excerpt: "Getting through volume 4, I am excited for volume 5. This, I suppose, is the utmost goal of any series, though it does not address how I enjoyed the current volume. I enjoyed it immensely, and I’m glad to finally have a larger story arc moving the main plot ahead."
 ---

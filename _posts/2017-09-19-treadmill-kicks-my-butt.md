@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Treadmill Kicks My Butt
+comments: true
 date:   2017-09-19 14:05:48 -0500
 excerpt: The other day I was prepared to take my walk and discovered that it was absolutely dreary. I decided that it would be best to go to my apartment's workout room and take my walk on a treadmill instead.
 ---

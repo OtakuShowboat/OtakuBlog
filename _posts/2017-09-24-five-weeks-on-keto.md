@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Five Weeks on Keto
+comments: true
 date:   2017-09-24 19:17:23 -0500
 excerpt: As of this past Friday, September 22, 2017, I've been on my Keto diet for five weeks. To be completely honest, I have found it to be one of the easiest things I have ever done in my life. The work involved has merely been to buy different foods at the store than what I had been buying and, importantly, cook daily. That cooking daily part was and is the only real "chore" of this diet, but it's something I should have been doing anyway.
 ---

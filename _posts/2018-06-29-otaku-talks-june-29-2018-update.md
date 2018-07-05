@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Talks - June 29, 2018 Update"
+comments: true
 date:   2018-06-29 19:13:27 -0500
 excerpt: "Time again for another update, and yet again there’s a lot to catch up on. From finishing my thesis to working on a brand new website, we’ve got a lot to cover today. Let’s get to it."
 ---

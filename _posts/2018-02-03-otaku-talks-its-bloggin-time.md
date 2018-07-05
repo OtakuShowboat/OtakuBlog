@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Talks - It's Bloggin' Time"
+comments: true
 date:   2018-02-03 22:27:44 -0500
 excerpt: "Alright, so this is going to be a more general blog post where I'll be talking about my life and what's been going on recently. It's been some time since making any real posts here, so it's about time to get back into it."
 ---

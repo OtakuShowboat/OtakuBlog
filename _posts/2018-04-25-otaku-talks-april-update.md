@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Talks - April Update"
+comments: true
 date:   2018-04-25 17:22:46 -0500
 excerpt: "Well, it’s been some time since the last update for the website, and there is a lot to discuss."
 ---

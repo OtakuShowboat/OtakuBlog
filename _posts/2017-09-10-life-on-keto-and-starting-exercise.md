@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Life on Keto and Starting Exercise
+comments: true
 date:   2017-09-10 15:13:17 -0500
 excerpt: Three weeks ago Friday, I started off a Keto diet. On that first day, I ate about 40 net carbs, mainly due to eating an apple. This is a diet where the ideal net carbs is 20, but it's not bad to eat up to a person's tolerance. At this point, I do not know my max that kicks me out of ketosis. This is something I'd like to only test after losing a bit more weight, as I only just fully keto adapted a few days ago.
 ---

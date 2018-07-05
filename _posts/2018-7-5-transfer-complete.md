@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Site Transfer is Completed!"
+comments: true
 date:   2018-07-5 15:55:00 -0500
 excerpt: "The transfer has now been completed!"
 ---

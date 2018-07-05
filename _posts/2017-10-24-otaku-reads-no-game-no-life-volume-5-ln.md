@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: No Game No Life Volume 5 (LN)"
+comments: true
 date:   2017-10-24 20:17:49 -0500
 excerpt: "Okay, this was a great ending to the arc. A lot of progress is made in the story, too. Honeslty, I'm running out of things that I can really say without spoilers in regards to this series, but I'll try my best."
 ---

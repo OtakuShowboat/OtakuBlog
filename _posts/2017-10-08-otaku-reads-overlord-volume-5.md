@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: Overlord Volume 5"
+comments: true
 date:   2017-10-08 22:50:06 -0500
 excerpt: "Well, I've finally been slowly churning through my collection of manga and light novels I've accrued over the past few years. I decided at the start of the year to not buy any more unless I've read the volumes I have of that series. Thus we get to today's topic: Overlord Volume 5: Men of the Kingdom Part 1."
 ---

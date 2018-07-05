@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  The site is officially live
+comments: true
 date:   2017-09-4 22:09:51 -0500
 excerpt: Okay, folks, so I've managed to now sort-of bring back the old main pages to the site. While I could add the old posts, I don't see too much point right now. I may to some sort of archival post with all the content at some point. We'll see. The idea is that I now have my Collection, About, and Video pages up, though the Video page in particular has the most changes.
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: No Game No Life Volume 6 (LN)"
+comments: true
 date:   2017-10-27 21:29:20 -0500
 excerpt: "Well, I’ve finished off volume 6. I was up past 2:00 am last night because of it. It is a wonderful stand-alone story. That said, it should have been just that – stand-alone."
 ---

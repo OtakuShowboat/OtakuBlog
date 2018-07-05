@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "And So it Begins"
+comments: true
 date:   2017-08-31 9:47:29 -0500
 excerpt: It may be obvious by this point, but I have completely switched away from my previous web host. Up until a few days ago, I was using GoDaddy's Managed Wordpress for the blog.
 ---

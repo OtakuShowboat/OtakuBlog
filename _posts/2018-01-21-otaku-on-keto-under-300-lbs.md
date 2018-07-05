@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku on Keto - Under 300 lbs!"
+comments: true
 date:   2018-01-21 21:02:26 -0500
 excerpt: "As of December 23rd, 2017, I have been officially under 300 lbs. That was about 18 weeks on the diet, losing 66 lbs. Right now, I'm down to 286.8 lbs after returning from my vacation."
 ---

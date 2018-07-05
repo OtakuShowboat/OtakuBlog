@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: No Game No Life Volume 2 (LN)"
+comments: true
 date:   2017-10-16 23:00:56 -0500
 excerpt: "Well, last night I finished off volume 2, and I’m a little conflicted. It is a good read, though it doesn’t advance the story much."
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: No Game No Life Volume 1 (LN)"
+comments: true
 date:   2017-10-14 22:29:45 -0500
 excerpt: "For clarity going forward, light novels will have (LN) and manga will have (MN) in the post titles. So, this post is really a day late, but whatever. I sort of was up past 1 am reading the entirety of this book the other night. As I was going on only about 5 hours of sleep, I clocked out early last night and only read the Prologue of volume 2. So, that should give some clear indication as to my thoughts on the book."
 ---

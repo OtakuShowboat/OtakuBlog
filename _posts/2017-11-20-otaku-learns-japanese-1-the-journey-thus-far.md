@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Learns Japanese 1 – The Journey Thus Far"
+comments: true
 date:   2017-11-20 21:45:28 -0500
 excerpt: "Hello everyone! I’ve been meaning to make a sizeable post about my studies for a little while now, I’ve just been quite busy. Fortunately, I’ve finally gotten around to it! For those who haven’t been following me on Twitter or here on the website, I decided to learn Japanese way back in late July, and have been going through with it every day since."
 ---

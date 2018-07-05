@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: Grimgar of Fantasy and Ash Volume 3 (LN)"
+comments: true
 date:   2017-11-03 12:28:11 -0500
 excerpt: "I have finally finished reading Grimgar of Fantasy and Ash volume 3. You better get yourself a cup of {beverage of choice}, because this is going to be a long one. As a prelude of what’s to come, I’ll just say this: I hate this novel series, and I have lost all faith in the author. I do not want to continue supporting this person by buying any more novels in this series. I have no idea how or why it was approved for an anime, but I applaud the work of that team on turning it into one of the best anime series I’ve watched given the ineptitude of the source material. Today, I will be venting my frustrations about this novel. As such, I will be discussing plot points by necessity, so let this serve as your <strong>SPOILER WARNING</strong>."
 ---

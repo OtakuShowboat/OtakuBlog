@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Otaku Reads: No Game No Life Volume 3 (LN)"
+comments: true
 date:   2017-10-19 19:17:07 -0500
 excerpt: "Finished off volume 3 now, and it was just as good as I was expecting it to be based on the anime. Pretty sure there’s good reason why the anime ended here."
 ---

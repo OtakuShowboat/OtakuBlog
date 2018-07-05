@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  That feeling when things get fixed
+comments: true
 date:   2017-09-05 17:20:17 -0500
 excerpt: Today I had the "pleasure" of taking care of two pretty major issues in my life. One applies to my current job. The other applies to how I spend money.
 ---
