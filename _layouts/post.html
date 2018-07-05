@@ -4,7 +4,8 @@
 	<nav id="nav">{% include nav.html %}</nav>
 	<div id="content">
 		<header>{% include header.html %}</header>
-		<div id="main_content">{{ page.content }}</div>
+		<div id="main_content">{{ page.date | date_to_long_string }} <br /><br />
+		{{ page.content }}</div>
 		<footer> {% include footer.html %} </footer>
 	</div>
 </body>
