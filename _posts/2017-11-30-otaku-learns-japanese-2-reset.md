@@ -1,10 +1,15 @@
 ---
+title: Otaku Learns Japanese 2 – Reset
+date: 2017-11-30 04:39:21 Z
 layout: post
-title:  "Otaku Learns Japanese 2 – Reset"
 comments: true
-date:   2017-11-29 23:39:21 -0500
-excerpt: "Today I reset my progress on WaniKani back to level 1. I had hit level 12, but had yet to even begin the level 12 content. You may be wondering exactly why I would forsake almost three months of progress. The answer is twofold, and the steps I have taken will result in me actually learning the content a lot more deeply than before."
+excerpt: Today I reset my progress on WaniKani back to level 1. I had hit level 12,
+  but had yet to even begin the level 12 content. You may be wondering exactly why
+  I would forsake almost three months of progress. The answer is twofold, and the
+  steps I have taken will result in me actually learning the content a lot more deeply
+  than before.
 ---
+
 <p>Today I reset my progress on WaniKani back to level 1. I had hit level 12, but had yet to even begin the level 12 content. You may be wondering exactly why I would forsake almost three months of progress. The answer is twofold, and the steps I have taken will result in me actually learning the content a lot more deeply than before. </p>
 <p><em>Why I reset</em></p>
 <ol>

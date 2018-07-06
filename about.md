@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 <p>Hello everyone! I was YouTuber that primarily created Let's Play videos. I changed my name from LPShowboat0099 to Otaku Showboat in order to provide a more diverse array of content outside of just "Let's Play" videos on my YouTube channel. The intent was to produce content not only related to gaming, but to anime, manga, etc. as well! I made videos September 2011, about one month before my father passed away, until September 2017. Making videos pulled me through a terrible time, and even though my content was honestly not particularly great, I am proud of what I managed to accomplish in 6 years. </p>

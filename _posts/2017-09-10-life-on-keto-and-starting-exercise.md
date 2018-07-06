@@ -1,10 +1,16 @@
 ---
+title: Life on Keto and Starting Exercise
+date: 2017-09-10 20:13:17 Z
 layout: post
-title:  Life on Keto and Starting Exercise
 comments: true
-date:   2017-09-10 15:13:17 -0500
-excerpt: Three weeks ago Friday, I started off a Keto diet. On that first day, I ate about 40 net carbs, mainly due to eating an apple. This is a diet where the ideal net carbs is 20, but it's not bad to eat up to a person's tolerance. At this point, I do not know my max that kicks me out of ketosis. This is something I'd like to only test after losing a bit more weight, as I only just fully keto adapted a few days ago.
+excerpt: Three weeks ago Friday, I started off a Keto diet. On that first day, I ate
+  about 40 net carbs, mainly due to eating an apple. This is a diet where the ideal
+  net carbs is 20, but it's not bad to eat up to a person's tolerance. At this point,
+  I do not know my max that kicks me out of ketosis. This is something I'd like to
+  only test after losing a bit more weight, as I only just fully keto adapted a few
+  days ago.
 ---
+
 <p>Three weeks ago Friday, I started off a Keto diet. On that first day, I ate about 40 net carbs, mainly due to eating an apple. This is a diet where the ideal net carbs is 20, but it's not bad to eat up to a person's tolerance. At this point, I do not know my max that kicks me out of ketosis. This is something I'd like to only test after losing a bit more weight, as I only just fully keto adapted a few days ago.</p>
 <p>As far as my Caloric intake, I have had no issues whatsoever with eating between 1300-1600 per day. For my size, I burn over 2500 doing nothing. This has been nice thus far, but I'd like to improve my lean muscle mass a bit. As such, I started off taking walks that were just shy of 2 miles with my new FitBit Blaze. I honestly haven't had any major problems doing the walks. I feel great, even. On the fourth day of walking, yesterday the 9th, I walked an extra 1.1 mile lap around a good sized commercial block nearby. That brought me to arount 8,000 steps. I even had over half an hour of cardio heart rate, according to the FitBit. Today, I made it through a third lap, taking me to the "goal" of just over 10,000 steps. It took over an hour and forty minutes for me and over an hour of that I was at cardio-level heart rate. I cannot express just how out of shape I am to have that much cardio heart rate at that slow of an overall pace for 4.2 miles. Yes, I did around 10,100 steps in 4.2 miles (a stride of a little over 2.1 ft per step). I have a few songs with nice, fast beats I can manage keep up with which lead to smaller stride length as I try to keep pace. Anyway, that walk today did bring my feet to their limit. I know not to do a 4th lap any time soon. I did end up with another blister, this time on my left foot. My hope is that over the next few weeks, I'll be able to cut down that time by at least 30 minutes, though getting it to under an hour is likely not feasible given that there are intersections I have to cross.</p>
 <p>Anyway, today's 10,000 steps burned more Calories than I usually eat in a day. That is, of course, a function of my current weight and heart rate over the length of time it took to do those steps. My lunch today was the most satisfying meal I've ever had. My body wanted that food energy. All that said, I know that my rate of weight loss by not eating a lot more than I am right now (calculated in MyFitnessPal to be over 5 lbs a week) is not suggested as "safe." 1-2 lbs per week is the usual "recommendation," but in reality it's more like 0.5-1% of body  weight. For me, that would be more like 3.5 lbs per week. Adding the walks each day brings me up to the theoretical 5.</p>

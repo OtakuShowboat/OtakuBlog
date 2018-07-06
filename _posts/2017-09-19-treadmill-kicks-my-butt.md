@@ -1,10 +1,13 @@
 ---
+title: Treadmill Kicks My Butt
+date: 2017-09-19 19:05:48 Z
 layout: post
-title:  Treadmill Kicks My Butt
 comments: true
-date:   2017-09-19 14:05:48 -0500
-excerpt: The other day I was prepared to take my walk and discovered that it was absolutely dreary. I decided that it would be best to go to my apartment's workout room and take my walk on a treadmill instead.
+excerpt: The other day I was prepared to take my walk and discovered that it was absolutely
+  dreary. I decided that it would be best to go to my apartment's workout room and
+  take my walk on a treadmill instead.
 ---
+
 <p>The other day I was prepared to take my walk and discovered that it was absolutely dreary. I decided that it would be best to go to my apartment's workout room and take my walk on a treadmill instead.</p>
 <p>Here's the thing about treadmills: They don't have intersections and stoplights. I walked 3 miles on it at an average of about 2.7 mph and it completely kicked my butt. My FitBit also does not like the treadmill.</p>
 <p>Here's the thing about the FitBit Blaze: The heartbeat sensor HATES sweat and gives completely inaccurate readings while sweating (thus messing up the calorie burn count) AND it does not keep track of steps if you're holding on to a treadmill's handle with that hand, which can be dangerous.</p>

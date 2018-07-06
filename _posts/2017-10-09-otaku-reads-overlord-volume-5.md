@@ -1,10 +1,14 @@
 ---
+title: 'Otaku Reads: Overlord Volume 5'
+date: 2017-10-09 03:50:06 Z
 layout: post
-title:  "Otaku Reads: Overlord Volume 5"
 comments: true
-date:   2017-10-08 22:50:06 -0500
-excerpt: "Well, I've finally been slowly churning through my collection of manga and light novels I've accrued over the past few years. I decided at the start of the year to not buy any more unless I've read the volumes I have of that series. Thus we get to today's topic: Overlord Volume 5: Men of the Kingdom Part 1."
+excerpt: 'Well, I''ve finally been slowly churning through my collection of manga
+  and light novels I''ve accrued over the past few years. I decided at the start of
+  the year to not buy any more unless I''ve read the volumes I have of that series.
+  Thus we get to today''s topic: Overlord Volume 5: Men of the Kingdom Part 1.'
 ---
+
 <p>Well, I've finally been slowly churning through my collection of manga and light novels I've accrued over the past few years. I decided at the start of the year to not buy any more unless I've read the volumes I have of that series. Thus we get to today's topic: Overlord Volume 5: Men of the Kingdom Part 1.</p>
 <p>Overlord is a light novel series I've been very much in to since the anime. I was thrilled when I found out the novels were being translated and have now read all of them through this most recent release. I'll note that unlike most other light novels, this series releases in hard-bound copy instead of paperback.</p>
 <p>Volume 5, like 4, does not feature much of the titular Overlord. The focus is on side characters residing in a capital city and the confluence of events that bring everyone together.</p>

@@ -1,10 +1,13 @@
 ---
+title: 'Otaku on Keto: 8 Weeks and Over 30 Pounds'
+date: 2017-10-13 01:05:04 Z
 layout: post
-title:  "Otaku on Keto: 8 Weeks and Over 30 Pounds"
 comments: true
-date:   2017-10-12 20:05:04 -0500
-excerpt: "Friday, October 13, 2017 marks 8 full weeks of being on a ketogenic diet. I have lost over 30 pounds thus far (you can refer to the weight page in the top navigation for details). It has been a heck of a journey."
+excerpt: Friday, October 13, 2017 marks 8 full weeks of being on a ketogenic diet.
+  I have lost over 30 pounds thus far (you can refer to the weight page in the top
+  navigation for details). It has been a heck of a journey.
 ---
+
 <p>Friday, October 13, 2017 marks 8 full weeks of being on a ketogenic diet. I have lost over 30 pounds thus far (you can refer to the weight page in the top navigation for details). It has been a heck of a journey.</p>
 <p>The biggest struggle I've faced since the last post at 5 weeks has been a cold I developed a couple weeks ago that had a really long tail to it. This kept me from talking my usual walk in the mornings, and now I've sort of just adapted my schedule around not walking in the morning. That said, I've lost more weight in this period than I have thus far. While I was sick, I lost weight a bit faster than in the first week. I don't know if this was the direct result of the cold, but I am thankful for it, as the weight has stayed off. Early in 2015 I was down to about 315-320, and stayed around there the rest of that year. All this weight I'm losing now was accumulated basically since the start of 2016. That's scary when you think about it. I ate a LOT of pizzas.</p>
 <p>I have also been noticing some errors in my weight caused by the scale. There are days where I have mysteriously gained, like, a pound, then the next day I'm down 2. This speaks to me of calibration errors because I move the scale into position before using it. The manufacturer's website says that this can happen with fluctuations up to +5 lbs, and said to activate the device before weighing yourself to let it calibrate. I've started doing this, so I'll find out soon enough if those odd one-day peaks were because of that. From looking at my weight graph, there's been 5 days that may be in error. I'd rather not have any more.</p>

@@ -1,10 +1,16 @@
 ---
+title: 'Otaku Reads: Grimgar of Fantasy and Ash Volume 2'
+date: 2017-10-13 00:19:22 Z
 layout: post
-title:  "Otaku Reads: Grimgar of Fantasy and Ash Volume 2"
 comments: true
-date:   2017-10-12 19:19:22 -0500
-excerpt: "NOTE: Just a quick word of warning, if you have come here for plot summary or massive spoilers, you have come to the wrong place. This is an impressions series, for the most part, and I give my reactions to the books as a whole.</p><p>Okay, so I finished this second light novel volume way faster than anticipated and totally didn't skip over any of it at any point. Really. Especially none of the COMPELLING and INTERESTING internal dialogue of the MC."
+excerpt: 'NOTE: Just a quick word of warning, if you have come here for plot summary
+  or massive spoilers, you have come to the wrong place. This is an impressions series,
+  for the most part, and I give my reactions to the books as a whole.</p><p>Okay,
+  so I finished this second light novel volume way faster than anticipated and totally
+  didn''t skip over any of it at any point. Really. Especially none of the COMPELLING
+  and INTERESTING internal dialogue of the MC.'
 ---
+
 <p>NOTE: Just a quick word of warning, if you have come here for plot summary or massive spoilers, you have come to the wrong place. This is an impressions series, for the most part, and I give my reactions to the books as a whole.</p>
 <p>Okay, so I finished this second light novel volume way faster than anticipated and totally didn't skip over any of it at any point. Really. Especially none of the COMPELLING and INTERESTING internal dialogue of the MC.</p>
 <p>...</p>

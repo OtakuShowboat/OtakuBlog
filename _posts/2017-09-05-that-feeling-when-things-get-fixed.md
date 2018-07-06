@@ -1,10 +1,12 @@
 ---
+title: That feeling when things get fixed
+date: 2017-09-05 22:20:17 Z
 layout: post
-title:  That feeling when things get fixed
 comments: true
-date:   2017-09-05 17:20:17 -0500
-excerpt: Today I had the "pleasure" of taking care of two pretty major issues in my life. One applies to my current job. The other applies to how I spend money.
+excerpt: Today I had the "pleasure" of taking care of two pretty major issues in my
+  life. One applies to my current job. The other applies to how I spend money.
 ---
+
 <p>Today I had the "pleasure" of taking care of two pretty major issues in my life. One applies to my current job. The other applies to how I spend money.</p>
 <p>I'll start with my issue with money, as it's not as technical as the other thing and perhaps more understandable. I was having issues using my PayPal Business Debit Card ever since I had a failed credit payment at GameStop on August 22nd. No payment using the card in Credit mode was going through. Now, I've had my card for a long time, and a PayPal account for even longer, and my backup payment method has been solid the entire time. There was no good reason for that purchase to fail on Credit. It went through on Debit. Further credit payments had failed every time I tried to use the card. </p>
 <p>Now, I called about this issue on Sunday and was told the following: Since I had received payments from people, the card prevents split-tender transactions until that money has been available in the account for a day or so as part of their fraud protection. That explains, perhaps, at least one failed transaction, as I had gotten payments from my apartmentmates in order to pay their shares of the electricity bill. That does NOT apply to the GameStop transaction on August 22nd. So I waited.</p>

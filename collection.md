@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Collection
+layout: page
 ---
+
 <p>This is currently a list of every Manga, Light Novel, and Amiibo that I currently have in my collection. It does not include items I have on pre-order. Please refer to my (mostly) updated MAL page for a list of shows I have watched and what I am currently watching:
 <a href="https://myanimelist.net/animelist/OtakuShowboat">My Anime List page</a>
 <br />

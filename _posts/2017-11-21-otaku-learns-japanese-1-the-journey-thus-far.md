@@ -1,10 +1,15 @@
 ---
+title: Otaku Learns Japanese 1 – The Journey Thus Far
+date: 2017-11-21 02:45:28 Z
 layout: post
-title:  "Otaku Learns Japanese 1 – The Journey Thus Far"
 comments: true
-date:   2017-11-20 21:45:28 -0500
-excerpt: "Hello everyone! I’ve been meaning to make a sizeable post about my studies for a little while now, I’ve just been quite busy. Fortunately, I’ve finally gotten around to it! For those who haven’t been following me on Twitter or here on the website, I decided to learn Japanese way back in late July, and have been going through with it every day since."
+excerpt: Hello everyone! I’ve been meaning to make a sizeable post about my studies
+  for a little while now, I’ve just been quite busy. Fortunately, I’ve finally gotten
+  around to it! For those who haven’t been following me on Twitter or here on the
+  website, I decided to learn Japanese way back in late July, and have been going
+  through with it every day since.
 ---
+
 <p>Hello everyone! I’ve been meaning to make a sizeable post about my studies for a little while now, I’ve just been quite busy. Fortunately, I’ve finally gotten around to it! For those who haven’t been following me on Twitter or here on the website, I decided to learn Japanese way back in late July, and have been going through with it every day since.</p>
 <h1 id="-why-learn-japanese-"><strong>Why Learn Japanese?</strong></h1>
 <p>I’ve sort of wanted to learn the language for quite some time. I’ve been watching subtitled anime since 2013, and had been my primary source of hearing the language. I realized within the months leading up to my decision that I had picked up just enough of the vocabulary to feel somewhat annoyed with subtitles at times. I was even starting to recognize the original Japanese wording of some words in English-translated light novels and manga. I began to want those books to not translate the common words (especially honorifics) that I had picked up and that I’m sure most people who are in to watching subtitled anime know.</p>

@@ -1,8 +1,11 @@
 ---
+title: And So it Begins
+date: 2017-08-31 14:47:29 Z
 layout: post
-title:  "And So it Begins"
 comments: true
-date:   2017-08-31 9:47:29 -0500
-excerpt: It may be obvious by this point, but I have completely switched away from my previous web host. Up until a few days ago, I was using GoDaddy's Managed Wordpress for the blog.
+excerpt: It may be obvious by this point, but I have completely switched away from
+  my previous web host. Up until a few days ago, I was using GoDaddy's Managed Wordpress
+  for the blog.
 ---
+
 <p>It may be obvious by this point, but I have completely switched away from my previous web host. Up until a few days ago, I was using GoDaddy's Managed Wordpress for the blog. The issue was that it was supremely slow, and I wasn't willing to pay a massive amount of money to get my own server rather than a spot on a server with a bunch of other websites. I was hesitant to switch earlier as I still had time to go on my plan. I switched to Squarespace with about a week to go before renewal.</p><p>The issue with switching to Squarespace is that it is not a WordPress. It does not support a WordPress installation. Now, while I'm capable of developing a non-WordPress website myself, I didn't want to take the time, especially right now while I'm in major-work mode with a nearly full schedule. The biggest downside of this is that, well, the entirety of the old website is now offline (I did backup the GoDaddy site pages and media via FTP, though). All content needs to be rebuilt from scratch, and that's okay. I get to now learn the Squarespace CMS. From what I've seen thus far, it's very powerful.</p><p>Now, I do have to admit that, yes, the plan I got for Squarespace is a bit more expensive in total than my previous plan with GoDaddy, but it's worth it. The site is much, much, much faster on the backend admin pages (a major problem with GoDaddy) and it has a ton of features I didn't have with the previous hosting, including private WHOIS registration. I'm pretty sure there would be at least cost parity if I had those extra features through GoDaddy. Anyway, enough about costs. I'm just happy I could at least transfer my domain.</p><p>As one may expect, creating a new website takes time. I will be working on it when I can, though it will be a while. This is especially true considering how often I've updated this site in recent memory. As always, I hope to rectify that. Anyway, that's enough for now. I've got work to do.</p><p>Edit 1: I have gone to the old database and downloaded the post data as a CSV so that I have all the text of all the old posts and pages. Also exported all the other information from the database before cancelling the managed wordpress completely. I now have no more business with GoDaddy.</p>

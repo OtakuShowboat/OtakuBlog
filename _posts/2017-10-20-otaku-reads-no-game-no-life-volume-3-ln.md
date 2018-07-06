@@ -1,10 +1,12 @@
 ---
+title: 'Otaku Reads: No Game No Life Volume 3 (LN)'
+date: 2017-10-20 00:17:07 Z
 layout: post
-title:  "Otaku Reads: No Game No Life Volume 3 (LN)"
 comments: true
-date:   2017-10-19 19:17:07 -0500
-excerpt: "Finished off volume 3 now, and it was just as good as I was expecting it to be based on the anime. Pretty sure there’s good reason why the anime ended here."
+excerpt: Finished off volume 3 now, and it was just as good as I was expecting it
+  to be based on the anime. Pretty sure there’s good reason why the anime ended here.
 ---
+
 <p>Finished off volume 3 now, and it was just as good as I was expecting it to be based on the anime. Pretty sure there’s good reason why the anime ended here.</p>
 <p>That said, we yet again have essentially two stories featuring two games. At the very least, the one at the start (you know, the whole cliffhanger resolution one), does manage to TRY to give a deeper understanding of the relationship between Sora and Shiro. Of course, that’s sort of been hammered home many dozens of times by this point, but hey, at least it was an interesting premise for a game.</p>
 <p>The second game is the big one and has the highest stakes yet, and unless you know what’s going to happen, it does have a genuinely surprising ending. The only constant in this series is that Blank never loses. What’s fun and engaging each time is in the how.</p>

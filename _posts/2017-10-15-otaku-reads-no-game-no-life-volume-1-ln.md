@@ -1,10 +1,16 @@
 ---
+title: 'Otaku Reads: No Game No Life Volume 1 (LN)'
+date: 2017-10-15 03:29:45 Z
 layout: post
-title:  "Otaku Reads: No Game No Life Volume 1 (LN)"
 comments: true
-date:   2017-10-14 22:29:45 -0500
-excerpt: "For clarity going forward, light novels will have (LN) and manga will have (MN) in the post titles. So, this post is really a day late, but whatever. I sort of was up past 1 am reading the entirety of this book the other night. As I was going on only about 5 hours of sleep, I clocked out early last night and only read the Prologue of volume 2. So, that should give some clear indication as to my thoughts on the book."
+excerpt: For clarity going forward, light novels will have (LN) and manga will have
+  (MN) in the post titles. So, this post is really a day late, but whatever. I sort
+  of was up past 1 am reading the entirety of this book the other night. As I was
+  going on only about 5 hours of sleep, I clocked out early last night and only read
+  the Prologue of volume 2. So, that should give some clear indication as to my thoughts
+  on the book.
 ---
+
 <p>For clarity going forward, light novels will have (LN) and manga will have (MN) in the post titles.</p>
 <p>So, this post is really a day late, but whatever. I sort of was up past 1 am reading the entirety of this book the other night. As I was going on only about 5 hours of sleep, I clocked out early last night and only read the Prologue of volume 2. So, that should give some clear indication as to my thoughts on the book.</p>
 <p>I'll note that each volume of No Game No Life is relatively short compared to the other light novel series I own. That said, volume 1 did not have a ton of fluff (say what you will of the pervy scenes) and there isn't a ton of repetition, unlike in some serialized web novels where the author keeps repeating the same things every weekly / monthly chapter for new people yet not bothering to edit that crap out come time to edit together a full volume (I'm looking at you, Log Horizon). The only things that do get repeated are the rules of the world, yet only as they are applied and are more reminders and clarifications rather than explaining them anew.</p>

@@ -1,10 +1,16 @@
 ---
+title: Five Weeks on Keto
+date: 2017-09-25 00:17:23 Z
 layout: post
-title:  Five Weeks on Keto
 comments: true
-date:   2017-09-24 19:17:23 -0500
-excerpt: As of this past Friday, September 22, 2017, I've been on my Keto diet for five weeks. To be completely honest, I have found it to be one of the easiest things I have ever done in my life. The work involved has merely been to buy different foods at the store than what I had been buying and, importantly, cook daily. That cooking daily part was and is the only real "chore" of this diet, but it's something I should have been doing anyway.
+excerpt: As of this past Friday, September 22, 2017, I've been on my Keto diet for
+  five weeks. To be completely honest, I have found it to be one of the easiest things
+  I have ever done in my life. The work involved has merely been to buy different
+  foods at the store than what I had been buying and, importantly, cook daily. That
+  cooking daily part was and is the only real "chore" of this diet, but it's something
+  I should have been doing anyway.
 ---
+
 <p>As of this past Friday, September 22, 2017, I've been on my Keto diet for five weeks. To be completely honest, I have found it to be one of the easiest things I have ever done in my life. The work involved has merely been to buy different foods at the store than what I had been buying and, importantly, cook daily. That cooking daily part was and is the only real "chore" of this diet, but it's something I should have been doing anyway.</p>
 <p>Before I started this diet, I was incredibly, and I mean INCREDIBLY, lazy and low on energy throughout the day. Coffee in the morning was absolutely required when I would eventually get up around 9:00 am. I would crash in the early afternoon, most often, and would only truly feel "awake" by dinner. That makes going to bed a bit difficult when it feels like I had just gotten the energy to get things done. I was also so lazy that I just would not cook, to the point where even getting up to go microwave a TV dinner or bake a pizza was difficult to convince myself to do. Instead, I'd very often order delivery pizza from Papa Johns and, more recently, Pizza Hut. They probably think I've either moved away or died at this point, especially at Papa Johns, seeing as how I was getting to the point of ordering pizza up to three times per week. I was eating ENTIRE large and extra large pizzas, by the way, one time even two extra-larges in one night. My breakfast would be cereal, perhaps with a bagel and cream cheese (I've got a toaster near my desk, and a breakfast sandwich maker). Lunch was a PB&amp;J with a LOT of PB&amp;J, pretzels, and maybe an apple if I'd felt like buying a bag of them.</p>
 <p>Needless to say, since I wasn't active whatsoever, I balooned up so much that my XXXL T-Shirts were starting to show the skin of my stomach. I knew that enough was enough. I was already scared that the scale at home out in Virginia said "Err" when I got on it (it has a weight limit of 350 lbs) this past December.</p>

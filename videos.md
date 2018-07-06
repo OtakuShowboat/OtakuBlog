@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Videos
+layout: page
 ---
+
 <h1 class="text-align-center">Featured Playlists</h1>
 <p class="text-align-center">The following are selected playlists from my YouTube channel. These are some of my personal favorites and far from exhaustive. To watch more, visit my channel by clicking on the YouTube link on the top right of the screen.</p>
 

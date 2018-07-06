@@ -1,10 +1,20 @@
 ---
+title: 'Otaku Reads: Grimgar of Fantasy and Ash Volume 3 (LN)'
+date: 2017-11-03 17:28:11 Z
 layout: post
-title:  "Otaku Reads: Grimgar of Fantasy and Ash Volume 3 (LN)"
 comments: true
-date:   2017-11-03 12:28:11 -0500
-excerpt: "I have finally finished reading Grimgar of Fantasy and Ash volume 3. You better get yourself a cup of {beverage of choice}, because this is going to be a long one. As a prelude of what’s to come, I’ll just say this: I hate this novel series, and I have lost all faith in the author. I do not want to continue supporting this person by buying any more novels in this series. I have no idea how or why it was approved for an anime, but I applaud the work of that team on turning it into one of the best anime series I’ve watched given the ineptitude of the source material. Today, I will be venting my frustrations about this novel. As such, I will be discussing plot points by necessity, so let this serve as your <strong>SPOILER WARNING</strong>."
+excerpt: 'I have finally finished reading Grimgar of Fantasy and Ash volume 3. You
+  better get yourself a cup of {beverage of choice}, because this is going to be a
+  long one. As a prelude of what’s to come, I’ll just say this: I hate this novel
+  series, and I have lost all faith in the author. I do not want to continue supporting
+  this person by buying any more novels in this series. I have no idea how or why
+  it was approved for an anime, but I applaud the work of that team on turning it
+  into one of the best anime series I’ve watched given the ineptitude of the source
+  material. Today, I will be venting my frustrations about this novel. As such, I
+  will be discussing plot points by necessity, so let this serve as your <strong>SPOILER
+  WARNING</strong>.'
 ---
+
 <p>I have finally finished reading Grimgar of Fantasy and Ash volume 3. You better get yourself a cup of {beverage of choice}, because this is going to be a long one. As a prelude of what’s to come, I’ll just say this: I hate this novel series, and I have lost all faith in the author. I do not want to continue supporting this person by buying any more novels in this series. I have no idea how or why it was approved for an anime, but I applaud the work of that team on turning it into one of the best anime series I’ve watched given the ineptitude of the source material. Today, I will be venting my frustrations about this novel. As such, I will be discussing plot points by necessity, so let this serve as your <strong>SPOILER WARNING</strong>.</p>
 <p>Why this is the worst volume in the series thus far: </p>
 <p>First, the beginning is SUPREMELY dry. It took me days to force my way through reading it. Why is it so dry? Because Haruhiro is extremely boring and I’m very tired of the author focusing so heavily on repeatedly giving us his thoughts on every little thing that happens. Look, by this point, we already know what kind of a person Haruhiro is. We don’t need to know exactly what he’s thinking all the time, nor do you need to continue to hammer home is character traits over and over again every single chapter. Also, WAY too much time is spent on his frustrating relationship with Ranta. WE GET IT ALREADY, Ranta’s a (very unbelievable and poorly written) douchebag. We don’t need to be reminded of that twenty million times. In the end, I shouldn’t have to read halfway through the book to get to the interesting content.</p>
