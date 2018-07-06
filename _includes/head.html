@@ -3,11 +3,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>{{page.title}} - {{site.title}}</title>
-<meta name="generator" content="Jekyll v3.7.3" />
-<meta property="og:title" content="{{page.title}}" />
-<!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="{{site.baseurl}}/assets/main.css" />
 <link rel="stylesheet" href="{{site.baseurl}}/assets/css/site.css" />
 <link rel="apple-touch-icon" sizes="180x180" href="{{site.baseurl}}/apple-touch-icon.png">
@@ -18,3 +13,13 @@
 <meta name="msapplication-TileColor" content="#00aba9">
 <meta name="theme-color" content="#ffffff">
 <script src="{{site.baseurl}}/assets/scripts/scripts.js"></script>
+{% seo %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40031602-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-40031602-6');
+</script>
