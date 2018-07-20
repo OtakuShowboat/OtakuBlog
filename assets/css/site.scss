@@ -197,11 +197,8 @@ nav img:hover {
 div#content {
 	background: rgba(255, 255, 255, 0.9);
 	box-sizing: border-box;
-	display: flex;
-	flex-direction: column;
-	height: auto !important;
+	display: block;
 	margin: 7vh auto 0;
-	min-height: 100%;
 	padding: 0 3% 0;
 	text-align: justify;
 	width: 80%;
@@ -210,7 +207,7 @@ div#content {
 
 header {
 	display: inline-block;
-	height: 20%;
+	height: 10%;
 	position: relative;
 	text-align: center;
 	width: 100%;
