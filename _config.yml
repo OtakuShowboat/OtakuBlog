@@ -15,6 +15,8 @@ url: ''
 twitter_username: OtakuShowboat
 github_username: OtakuShowboat
 markdown: kramdown
+kramdown: 
+  parse_block_html: true
 theme: minima
 plugins:
 - jekyll-feed
