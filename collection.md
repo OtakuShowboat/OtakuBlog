@@ -136,7 +136,7 @@ layout: page
 		<td>Not reading</td>
 	</tr>
 	<tr>
-		<td>Attack on Titan: Before the Fall 1-8</td>
+		<td>Attack on Titan: Before the Fall</td>
 		<td>8</td>
 		<td>0</td>
 		<td>No</td>
@@ -178,7 +178,7 @@ layout: page
 		<td>Box Set</td>
 	</tr>
 	<tr>
-		<td>High School DxD 1-12</td>
+		<td>High School DxD</td>
 		<td>12</td>
 		<td>12</td>
 		<td>No</td>
@@ -199,7 +199,7 @@ layout: page
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>Hunter x Hunter 1-33</td>
+		<td>Hunter x Hunter</td>
 		<td>33</td>
 		<td>0</td>
 		<td>No</td>
@@ -213,7 +213,7 @@ layout: page
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>Kill la Kill 1-3</td>
+		<td>Kill la Kill</td>
 		<td>3</td>
 		<td>3</td>
 		<td>Finished</td>
@@ -227,7 +227,7 @@ layout: page
 		<td>Only 1 made</td>
 	</tr>
 	<tr>
-		<td>Log Horizon: The West Wind Brigade 1-8</td>
+		<td>Log Horizon: The West Wind Brigade</td>
 		<td>8</td>
 		<td>8</td>
 		<td>No</td>
@@ -241,14 +241,14 @@ layout: page
 		<td></td>
 	</tr>
 	<tr>
-		<td>Magi 1-19</td>
+		<td>Magi</td>
 		<td>19</td>
 		<td>19</td>
 		<td>No</td>
 		<td>Hold until 37</td>
 	</tr>
 	<tr>
-		<td>Monster Musume 1-13</td>
+		<td>Monster Musume</td>
 		<td>13</td>
 		<td>13</td>
 		<td>No</td>
@@ -276,14 +276,14 @@ layout: page
 		<td>Hold, temporary</td>
 	</tr>
 	<tr>
-		<td>Naruto 1-72</td>
+		<td>Naruto</td>
 		<td>72</td>
 		<td>0</td>
 		<td>Finished</td>
 		<td>3 Box Sets</td>
 	</tr>
 	<tr>
-		<td>No Game No Life 1</td>
+		<td>No Game No Life</td>
 		<td>1</td>
 		<td>1</td>
 		<td>Can't</td>
@@ -297,14 +297,14 @@ layout: page
 		<td></td>
 	</tr>
 	<tr>
-		<td>RE:Zero 1</td>
+		<td>RE:Zero</td>
 		<td>1</td>
 		<td>1</td>
 		<td>No</td>
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>School-Live! 1-4</td>
+		<td>School-Live!</td>
 		<td>4</td>
 		<td>4</td>
 		<td>No</td>
@@ -318,56 +318,56 @@ layout: page
 		<td></td>
 	</tr>
 	<tr>
-		<td>Sword Art Online Fairy Dance 1-3</td>
+		<td>Sword Art Online Fairy Dance</td>
 		<td>3</td>
 		<td>0</td>
 		<td>Finished</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>Sword Art Online Phantom Bullet 1-2</td>
+		<td>Sword Art Online Phantom Bullet</td>
 		<td>2</td>
 		<td>0</td>
 		<td>Finished</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>Sword Art Online Mother's Rosary 1-2</td>
+		<td>Sword Art Online Mother's Rosary</td>
 		<td>2</td>
 		<td>0</td>
 		<td>No</td>
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>Sword Art Online Progressive 1-4</td>
+		<td>Sword Art Online Progressive</td>
 		<td>4</td>
 		<td>0</td>
 		<td>No</td>
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>Sword Art Online Girls Ops 1-2</td>
+		<td>Sword Art Online Girls Ops</td>
 		<td>2</td>
 		<td>0</td>
 		<td>No</td>
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>The Heroic Legend of Arslan 1-5</td>
+		<td>The Heroic Legend of Arslan</td>
 		<td>5</td>
 		<td>5</td>
 		<td>No</td>
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>The Testament of Sister New Devil 1-3</td>
+		<td>The Testament of Sister New Devil</td>
 		<td>3</td>
 		<td>3</td>
 		<td>No</td>
 		<td>Dropped</td>
 	</tr>
 	<tr>
-		<td>World Trigger 1-12</td>
+		<td>World Trigger</td>
 		<td>12</td>
 		<td>12</td>
 		<td>Finished</td>
@@ -386,7 +386,7 @@ layout: page
 		<th>Comments</th>
 	</tr>
 	<tr>
-		<td>Accel World 1-6</td>
+		<td>Accel World</td>
 		<td>6</td>
 		<td>0</td>
 		<td>No</td>
@@ -414,7 +414,7 @@ layout: page
 		<td></td>
 	</tr>
 	<tr>
-		<td>Death March to the Parallel World: Rhapsody 1-5</td>
+		<td>Death March to the Parallel World: Rhapsody</td>
 		<td>5</td>
 		<td>5</td>
 		<td>Yes</td>
