@@ -322,3 +322,27 @@ th {
 		font-size: 1.6vmax;
 	}
 }
+
+/* Social Buttons */
+.share {
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5;
+    text-align: right;
+    
+}
+
+.share a {
+        font-weight: 700;
+        color: #000;
+        margin-left: 5px;
+        &:hover {
+            border-bottom: 1px dashed #000;
+        }
+}
+
+.share img {
+	height: 30px;
+	width: 30px;
+
+}
