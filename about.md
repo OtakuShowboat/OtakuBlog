@@ -4,16 +4,17 @@ permalink: "/about/"
 layout: page
 ---
 
-<p>Hello everyone! I was YouTuber that primarily created Let's Play videos. I changed my name from LPShowboat0099 to Otaku Showboat in order to provide a more diverse array of content outside of just "Let's Play" videos on my YouTube channel. The intent was to produce content not only related to gaming, but to anime, manga, etc. as well! I made videos September 2011, about one month before my father passed away, until September 2017. Making videos pulled me through a terrible time, and even though my content was honestly not particularly great, I am proud of what I managed to accomplish in 6 years. </p>
-<p>I completed a Master's of Science in Geology from the University of Kansas in May 2018 and a B.S. in Biological Sciences from Old Dominion University in May 2013.</p>
-<p>This blog is where I talk about all of the random subjects I originally had wanted to make videos about - Anime, Manga, Light Novels, Video Games, etc., though it is now basically a standard "everything" blog where I talk about pretty much anything, including my weight loss journey and learning experiences.</p>
+<p>This blog is where I talk about all of the subjects that interest me - Anime, Manga, Light Novels, Video Games, etc. I talk about pretty much everything, including my weight loss journey and learning experiences.</p>
 
-<p><strong>My Computer</strong>
-:</p>
-<p>Since this tends to get asked on my YouTube videos, here's my computer/recording setup:
-<br />
-PC:
-<br />
+<p>I was YouTuber that primarily created Let's Play videos. I changed my name from LPShowboat0099 to Otaku Showboat in order to provide a more diverse array of content outside of just "Let's Play" videos on my YouTube channel. The intent was to be able to produce not only gaming content, but content about my other interestests such as anime, manga, and light novels as well. That and my old name frankly was terrible. I first started releasing videos on my YouTube channel in September 2011, about one month before my father passed away. Making videos pulled me through a terrible time, and even though my content was not particularly great, I am proud of what I managed to accomplish in the years since.</p>
+
+<p>I completed a Master's of Science in Geology from the University of Kansas in May 2018 and a B.S. in Biological Sciences from Old Dominion University in May 2013. I graduated as Valedictorian of Norview High School in June, 2009.</p>
+
+<p>I currently work as a website developer for a group in the Geology department at the University of Kansas. I am in the process of starting a self-proprietorship company in the business of making, fixing, and improving websites.</p>
+
+
+<p><strong>My Personal (Non-work) Computer</strong>:</p>
+<p>
 Case: Enthoo Luxe
 <br />
 CPU: Intel i7-5960x (X99 platform) OC'd to 4.5GHz
@@ -46,7 +47,7 @@ Monitor 2: QNIX QX2710 Evolution II 27" 2560x1440 60Hz
 <br />
 Monitor 3/TV: Vizio E500i-B1 50" 1080p Smart LED TV
 <br /></p>
-<p><strong >Game Consoles I Own</strong>
+<p><strong>Consoles</strong>
 :
 <br />
 Sony:
@@ -83,4 +84,4 @@ DS
 <br />
 Gameboy Advance SP</p>
 
-<p>Last updated July 4, 2018</p>
+<p>Last updated July 22, 2018</p>
