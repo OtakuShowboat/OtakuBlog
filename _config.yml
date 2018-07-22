@@ -11,7 +11,7 @@ collections:
 email: otakushowboat@gmail.com
 description: Official Blog of Otaku Showboat.
 baseurl: ''
-url: 'https://www.otakushowboat.com/'
+url: 'https://www.otakushowboat.com'
 twitter_username: OtakuShowboat
 github_username: OtakuShowboat
 markdown: kramdown
