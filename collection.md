@@ -1,8 +1,8 @@
 ---
 title: Collection
 layout: page
----
 
+---
 <p>This is currently a list of every Manga, Light Droppedvel, and Amiibo that I currently have in my collection. It does Droppedt include items I have on pre-order. Please refer to my (mostly) updated MAL page for a list of shows I have watched and what I am currently watching:
 <a href="https://myanimelist.net/animelist/OtakuShowboat">My Anime List page</a>
 <br />
@@ -477,6 +477,12 @@ layout: page
 		<td>6</td>
 		<td>Continuing</td>
 	</tr>
+    <tr>
+        <td>Reborn as a Vending Machine, I Now Wander the Dungeon</td>
+        <td>1</td>
+        <td>0</td>
+        <td>Reading</td>
+    </tr>
 	<tr>
 		<td>So I'm a Spider, So What?</td>
 		<td>2</td>
