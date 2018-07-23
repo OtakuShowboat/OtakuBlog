@@ -23,3 +23,5 @@ plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
 permalink: "/otaku-blog/:year/:month/:day/:title/"
+paginate: 10
+paginate_path: '/:num/'

@@ -5,7 +5,7 @@
 	<div id="content">
 		<header>{% include header.html %}</header>
 		<div id="postsfeed">
-			{% for post in site.posts %}
+			{% for post in paginator.posts %}
 				<div class="feedpost">
 			  		<h2>
 			  			<a href="{{post.url | prepend: site.baseurl}}">{{ post.title }}</a>
@@ -15,7 +15,7 @@
 		  		</div>
 			{% endfor %}
 
-			<!-- pagination 
+			<!-- pagination -->
 			{% if paginator.total_pages > 1 %}
 				<div class="pagination">
 					{% if paginator.previous_page %}
@@ -41,8 +41,8 @@
 					{% endif %}
 				</div>
 			{% endif %}
-			-->
-		</div>
+			
+</div>
 		<div id="main_content">{{ page.content }}</div>
 		<footer> {% include footer.html %} </footer>
 	</div>
