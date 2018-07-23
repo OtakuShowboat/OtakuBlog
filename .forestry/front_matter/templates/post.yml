@@ -20,4 +20,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/forestry-test.md
+- _posts/2018-07-23-forestry-test.md
