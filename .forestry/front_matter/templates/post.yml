@@ -16,7 +16,7 @@ fields:
   name: comments
   default: true
 - type: textarea
-  name: Excerpt
+  name: excerpt
   config:
     required: true
 pages:
