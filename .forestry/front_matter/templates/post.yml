@@ -1,0 +1,26 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  default: post
+  config:
+    required: true
+- type: text
+  default: Post Title
+  name: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  config:
+    required: true
+- type: boolean
+  name: Comments
+  default: true
+- type: textarea
+  name: Excerpt
+  config:
+    required: true
