@@ -19,5 +19,3 @@ fields:
   name: excerpt
   config:
     required: true
-pages:
-- _posts/2018-07-23-forestry-test.md
