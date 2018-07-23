@@ -24,3 +24,5 @@ fields:
   name: Excerpt
   config:
     required: true
+pages:
+- _posts/forestry-test.md
