@@ -8,11 +8,6 @@ fields:
   default: post
   config:
     required: true
-- type: text
-  default: Post Title
-  name: Title
-  config:
-    required: true
 - type: datetime
   name: date
   config:
