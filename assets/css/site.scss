@@ -89,28 +89,29 @@ h2 {
 		}
 }
 
-nav a, nav a:link, nav a:visited, nav a:hover, .feedpost a, .feedpost a:link, .feedpost a:hover, .feedpost a:visited {
-	color: black;
+nav a, nav a:link, nav a:visited, nav a:hover, {
+	color: #808080;
 }
 
-nav a {
-	opacity: 0.5;
-}
 
 nav a:hover {
-	opacity: 1.0;
+	color: #000;
 	text-decoration: none;
-	transition: opacity 0.3s;
+	transition: color 0.3s;
 }
 
 a.active {
-	opacity: 1.0;
+	color: #000 !important;
 }
 
 a.active:hover {
-	opacity: 0.5;
+	color: #808080;
 	text-decoration:none;
-	transition: opacity 0.3s;
+	transition: color 0.3s;
+}
+
+.feedpost a, .feedpost a:link, .feedpost a:hover, .feedpost a:visited {
+	color: #000;
 }
 
 
@@ -171,10 +172,16 @@ nav img:hover {
 	width: 28%;
 }
 
+
 .left a {
-	opacity: 1;
+	color: #000 !important;
 }
 
+.left a:hover {
+	color: #000 !important;
+	text-decoration: none;
+	transition: none !important;
+}
 
 .center {
 	font-size: 1.3vmax;
@@ -272,10 +279,10 @@ div.feedpost:last-of-type {
 .feedpost h2 {
 	font-weight: bold;
 }
-.feedpost a:hover, .left a:hover {
-	opacity: 0.6;
+.feedpost a:hover {
+	color: #808080;
 	text-decoration: none;
-	transition: opacity 0.3s;
+	transition: color 0.3s;
 }
 
 .videocontainer {
@@ -345,4 +352,29 @@ th {
 	height: 30px;
 	width: 30px;
 
+}
+
+/* Pagination Styling */
+
+.pagination a, .pagination span {
+	background-color: #fff;
+	border: 1px solid #eee;
+	display: inline-block;
+	margin: 0px, 0px;
+	padding: 2vmin 3.8vmin;
+}
+
+.pagination a {
+	color: #808080;
+	&:hover {
+		background-color: #f1f1f1;
+		color: #000;
+		text-decoration: none;
+		transition: color 0.3s;
+		transition: background-color 0.3s;
+	}
+}
+
+.pagination {
+	text-align: center;
 }
