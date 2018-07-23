@@ -19,5 +19,3 @@ fields:
   name: excerpt
   config:
     required: true
-pages:
-- _posts/forest-test.md
