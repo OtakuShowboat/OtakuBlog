@@ -441,7 +441,7 @@ layout: page
 <tr>
 <td>The Saga of Tanya the Evil</td>
 <td>2</td>
-<td>2</td>
+<td>3</td>
 <td>Continuing</td>
 </tr>
 </table>
@@ -486,8 +486,8 @@ layout: page
 <tr>
 <td>So I'm a Spider, So What?</td>
 <td>2</td>
-<td>2</td>
-<td>Continuing</td>
+<td>3</td>
+<td>Reading</td>
 </tr>
 <tr>
 <td>The Faraway Paladin</td>
@@ -513,4 +513,4 @@ Splatoon: Marina, Pearl<br />
 JP Only: Qbby<br />
 Cards: Animal Crossing Series 2-4, AC Sanrio, AC Welcome Amiibo, Mario Sports Superstars, Pokken Tournament Shadow Mewtwo<br />
 <br />
-Last updated July 25, 2018 </p>
+Last updated August 2, 2018 </p>
