@@ -440,8 +440,8 @@ layout: page
 </tr>
 <tr>
 <td>The Saga of Tanya the Evil</td>
-<td>2</td>
 <td>3</td>
+<td>2</td>
 <td>Reading</td>
 </tr>
 </table>
@@ -479,8 +479,8 @@ layout: page
 </tr>
 <tr>
   <td>Lazy Dungeon Master</td>
-  <td>0</td>
   <td>1</td>
+  <td>0</td>
   <td>Reading</td>
 </tr>
 <tr>
