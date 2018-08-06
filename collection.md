@@ -519,4 +519,4 @@ Splatoon: Marina, Pearl<br />
 JP Only: Qbby<br />
 Cards: Animal Crossing Series 2-4, AC Sanrio, AC Welcome Amiibo, Mario Sports Superstars, Pokken Tournament Shadow Mewtwo<br />
 <br />
-Last updated August 2, 2018 </p>
+Last updated August 5, 2018 </p>
