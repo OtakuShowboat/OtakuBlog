@@ -442,7 +442,7 @@ layout: page
 <td>The Saga of Tanya the Evil</td>
 <td>2</td>
 <td>3</td>
-<td>Continuing</td>
+<td>Reading</td>
 </tr>
 </table>
 
@@ -478,6 +478,12 @@ layout: page
 <td>Continuing</td>
 </tr>
 <tr>
+  <td>Lazy Dungeon Master</td>
+  <td>0</td>
+  <td>1</td>
+  <td>Reading</td>
+</tr>
+<tr>
 <td>Reborn as a Vending Machine, I Now Wander the Dungeon</td>
 <td>1</td>
 <td>1</td>
@@ -485,9 +491,9 @@ layout: page
 </tr>
 <tr>
 <td>So I'm a Spider, So What?</td>
-<td>2</td>
 <td>3</td>
-<td>Reading</td>
+<td>3</td>
+<td>Continuing</td>
 </tr>
 <tr>
 <td>The Faraway Paladin</td>
