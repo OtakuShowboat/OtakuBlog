@@ -19,3 +19,5 @@ fields:
   name: excerpt
   config:
     required: true
+pages:
+- _posts/otaku-talks-august-30-2018-update.md
