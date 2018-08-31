@@ -434,14 +434,14 @@ layout: page
 </tr>
 <tr>
 <td>The Rising of the Shield Hero</td>
-<td>11</td>
-<td>11</td>
+<td>12</td>
+<td>12</td>
 <td>Continuing</td>
 </tr>
 <tr>
 <td>The Saga of Tanya the Evil</td>
 <td>3</td>
-<td>2</td>
+<td>3</td>
 <td>Reading</td>
 </tr>
 </table>
@@ -455,8 +455,8 @@ layout: page
 </tr>
 <tr>
 <td>Arifureta: From Commonplace to World's Strongest</td>
-<td>6</td>
-<td>6</td>
+<td>7</td>
+<td>7</td>
 <td>Continuing</td>
 </tr>
 <tr>
@@ -467,9 +467,9 @@ layout: page
 </tr>
 <tr>
 <td>Didn't I Say to Make My Abilities Average in the Next Life?!</td>
-<td>2</td>
-<td>2</td>
-<td>Continuing</td>
+<td>3</td>
+<td>3</td>
+<td>Hiatus</td>
 </tr>
 <tr>
 <td>How a Realist Hero Rebuilt the Kingdom</td>
@@ -480,14 +480,14 @@ layout: page
 <tr>
   <td>Lazy Dungeon Master</td>
   <td>1</td>
-  <td>0</td>
+  <td>1</td>
   <td>Reading</td>
 </tr>
 <tr>
 <td>Reborn as a Vending Machine, I Now Wander the Dungeon</td>
+<td>2</td>
 <td>1</td>
-<td>1</td>
-<td>Continuing</td>
+<td>Reading</td>
 </tr>
 <tr>
 <td>So I'm a Spider, So What?</td>
@@ -502,10 +502,16 @@ layout: page
 <td>Continuing</td>
 </tr>
 <tr>
+  <td>The Magic in this Other World is Too Far Behind!</td>
+  <td>5</td>
+  <td>5</td>
+  <td>Continuing</td>
+</tr>
+<tr>
 <td>The Master of Ragnarok and Blesser of Einherjar</td>
 <td>2</td>
 <td>2</td>
-<td>Continuing</td>
+<td>Hiatus</td>
 </tr>
 </table>
 
